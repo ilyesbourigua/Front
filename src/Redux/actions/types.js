@@ -1,0 +1,6 @@
+export const GET_CAMPAIGN = "GET_CAMPAIGN";
+export const DELETE_CAMPAIGN = "DELETE_CAMPAIGN";
+export const ADD_CAMPAIGN = "ADD_CAMPAIGN";
+export const GET_ERRORS = "GET_ERRORS";
+export const GET_MESSAGES = "GET_MESSAGES";
+export const CREATE_MESSAGES = "CREATE_MESSAGES";
