@@ -30,7 +30,7 @@ export class Campaign extends Component {
               <th>ID</th>
               <th>Name</th>
               <th>BirthDate</th>
-              <th>EndDate</th>
+              <th>PersonalEmail</th>
               <th />
             </tr>
           </thead>
